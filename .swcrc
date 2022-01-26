@@ -1,0 +1,27 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "ecmascript",
+      "jsx": false,
+      "dynamicImport": true,
+      "privateMethod": false,
+      "functionBind": false,
+      "exportDefaultFrom": true,
+      "exportNamespaceFrom": false,
+      "decorators": true,
+      "decoratorsBeforeExport": true,
+      "topLevelAwait": false,
+      "importMeta": false,
+      "numericSeparator": false,
+      "classPrivateProperty": false,
+      "classProperty": true,
+      "optionalChaining": true,
+      "nullishCoalescing": true
+    },
+    "transform": null,
+    "target": "es5",
+    "loose": false,
+    "externalHelpers": false,
+    "keepClassNames": false
+  }
+}
