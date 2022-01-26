@@ -1,9 +1,8 @@
-## Webpack 5 configuration for Single or Multipage websites using Tailwind CSS 3, SASS, PostCSS and SWC
+## Webpack 5 configuration for Single or Multipage websites using SASS, PostCSS and SWC
 
 **Features:**
 
 - Webpack 5
-- Tailwind CSS
 - SCSS
 - PostCSS
 - SWC
