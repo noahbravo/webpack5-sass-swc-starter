@@ -22,7 +22,7 @@
   "author": "Elena Bravo",
   "license": "ISC",
   "devDependencies": {
-    "@swc/core": "^1.2.133",
+    "@swc/core": "1.2.135",
     "copy-webpack-plugin": "^10.2.1",
     "cross-env": "^7.0.3",
     "css-loader": "^6.5.1",
