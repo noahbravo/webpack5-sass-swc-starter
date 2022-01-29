@@ -23,7 +23,7 @@
   "license": "ISC",
   "devDependencies": {
     "@swc/core": "1.2.135",
-    "copy-webpack-plugin": "10.2.2",
+    "copy-webpack-plugin": "10.2.3",
     "cross-env": "7.0.3",
     "css-loader": "6.5.1",
     "css-minimizer-webpack-plugin": "3.4.1",
