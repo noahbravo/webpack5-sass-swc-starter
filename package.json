@@ -22,7 +22,7 @@
   "author": "Elena Bravo",
   "license": "ISC",
   "devDependencies": {
-    "@swc/core": "1.2.155",
+    "@swc/core": "1.2.156",
     "copy-webpack-plugin": "10.2.4",
     "cross-env": "7.0.3",
     "css-loader": "6.7.1",
@@ -43,10 +43,10 @@
     "husky": "7.0.4",
     "mini-css-extract-plugin": "2.6.0",
     "normalize.css": "8.0.1",
-    "postcss": "8.4.8",
+    "postcss": "8.4.12",
     "postcss-loader": "6.2.1",
     "postcss-preset-env": "7.4.2",
-    "prettier": "2.5.1",
+    "prettier": "2.6.0",
     "replace-ext": "2.0.0",
     "sass": "1.49.9",
     "sass-loader": "12.6.0",
@@ -69,6 +69,6 @@
     }
   },
   "optionalDependencies": {
-    "@swc/core-darwin-x64": "1.2.155"
+    "@swc/core-darwin-x64": "1.2.156"
   }
 }
