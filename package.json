@@ -22,12 +22,12 @@
   "author": "Elena Bravo",
   "license": "ISC",
   "devDependencies": {
-    "@swc/core": "1.2.203",
+    "@swc/core": "1.2.204",
     "copy-webpack-plugin": "11.0.0",
     "cross-env": "7.0.3",
     "css-loader": "6.7.1",
     "css-minimizer-webpack-plugin": "4.0.0",
-    "eslint": "8.17.0",
+    "eslint": "8.18.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-config-standard": "17.0.0",
     "eslint-loader": "4.0.2",
@@ -38,15 +38,15 @@
     "eslint-plugin-standard": "5.0.0",
     "fibers": "5.0.1",
     "file-loader": "6.2.0",
-    "html-loader": "3.1.0",
+    "html-loader": "3.1.2",
     "html-webpack-plugin": "5.5.0",
     "husky": "8.0.1",
-    "mini-css-extract-plugin": "2.6.0",
+    "mini-css-extract-plugin": "2.6.1",
     "normalize.css": "8.0.1",
     "postcss": "8.4.14",
     "postcss-loader": "7.0.0",
     "postcss-preset-env": "7.7.1",
-    "prettier": "2.7.0",
+    "prettier": "2.7.1",
     "replace-ext": "2.0.0",
     "sass": "1.52.3",
     "sass-loader": "13.0.0",
@@ -69,6 +69,6 @@
     }
   },
   "optionalDependencies": {
-    "@swc/core-darwin-x64": "1.2.203"
+    "@swc/core-darwin-x64": "1.2.204"
   }
 }
