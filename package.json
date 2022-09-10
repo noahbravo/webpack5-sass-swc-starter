@@ -22,11 +22,11 @@
   "author": "Elena Bravo",
   "license": "ISC",
   "devDependencies": {
-    "@swc/core": "1.2.248",
+    "@swc/core": "1.2.249",
     "copy-webpack-plugin": "11.0.0",
     "cross-env": "7.0.3",
     "css-loader": "6.7.1",
-    "css-minimizer-webpack-plugin": "4.0.0",
+    "css-minimizer-webpack-plugin": "4.1.0",
     "eslint": "8.23.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-config-standard": "17.0.0",
@@ -45,10 +45,10 @@
     "normalize.css": "8.0.1",
     "postcss": "8.4.16",
     "postcss-loader": "7.0.1",
-    "postcss-preset-env": "7.8.0",
+    "postcss-preset-env": "7.8.1",
     "prettier": "2.7.1",
     "replace-ext": "2.0.0",
-    "sass": "1.54.8",
+    "sass": "1.54.9",
     "sass-loader": "13.0.2",
     "sass-rem": "3.0.0",
     "style-loader": "3.3.1",
@@ -57,7 +57,7 @@
     "terser-webpack-plugin": "5.3.6",
     "webpack": "5.74.0",
     "webpack-cli": "4.10.0",
-    "webpack-dev-server": "4.10.1"
+    "webpack-dev-server": "4.11.0"
   },
   "repository": {
     "type": "git",
@@ -69,6 +69,6 @@
     }
   },
   "optionalDependencies": {
-    "@swc/core-darwin-x64": "1.2.248"
+    "@swc/core-darwin-x64": "1.2.249"
   }
 }
