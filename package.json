@@ -41,7 +41,7 @@
     "html-loader": "4.2.0",
     "html-webpack-plugin": "5.5.0",
     "husky": "8.0.2",
-    "mini-css-extract-plugin": "2.7.0",
+    "mini-css-extract-plugin": "2.7.1",
     "normalize.css": "8.0.1",
     "postcss": "8.4.19",
     "postcss-loader": "7.0.1",
