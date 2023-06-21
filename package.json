@@ -45,7 +45,7 @@
     "normalize.css": "8.0.1",
     "postcss": "8.4.21",
     "postcss-loader": "7.0.2",
-    "postcss-preset-env": "7.8.3",
+    "postcss-preset-env": "8.5.1",
     "prettier": "2.8.3",
     "replace-ext": "2.0.0",
     "sass": "1.57.1",
