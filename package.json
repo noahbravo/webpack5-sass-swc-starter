@@ -50,7 +50,7 @@
     "replace-ext": "2.0.0",
     "sass": "1.57.1",
     "sass-loader": "13.2.0",
-    "sass-rem": "3.0.0",
+    "sass-rem": "4.0.0",
     "style-loader": "3.3.1",
     "swc-loader": "0.2.3",
     "tailwindcss": "3.2.4",
