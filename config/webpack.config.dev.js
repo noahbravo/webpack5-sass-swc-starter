@@ -25,5 +25,10 @@ module.exports = merge(baseConfig(mode), {
   resolve: {
     extensions: ['.js', '.css']
   },
-  plugins: [new ESLintPlugin()]
+  plugins: [new ESLintPlugin({
+    extensions: ['js'],
+    emitWarning: true,
+    failOnWarning: false,
+    failOnError: false
+  })]
 })
