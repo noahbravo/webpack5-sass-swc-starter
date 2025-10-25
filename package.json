@@ -46,11 +46,11 @@
     "prettier": "3.6.2",
     "replace-ext": "2.0.0",
     "sass": "1.93.2",
-    "sass-loader": "16.0.5",
+    "sass-loader": "16.0.6",
     "sass-rem": "4.0.0",
     "style-loader": "4.0.0",
     "swc-loader": "0.2.6",
-    "tailwindcss": "4.1.14",
+    "tailwindcss": "4.1.16",
     "terser-webpack-plugin": "5.3.14",
     "webpack": "5.102.1",
     "webpack-cli": "6.0.1",
@@ -66,6 +66,6 @@
     }
   },
   "optionalDependencies": {
-    "@swc/core-darwin-x64": "1.13.20"
+    "@swc/core-darwin-x64": "1.13.21"
   }
 }
